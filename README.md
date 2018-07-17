@@ -1,12 +1,19 @@
 # 100DaysOfML
 I am taking up the challenge to to Learn  Machine Learning at least an hour everyday!!  
 
-# Daily Log
+## Daily Log
 
-## Day 0 : 16 July 2018
+### Day 0 : 16 July 2018
 
 **Today's Progress** : Completed 3rd Day (Day 2 Challenges) of "10 Days of Statistics" in Hackerrank
 
-**Thoughts** : Learnt about **Compound**, **Mutually Exclusive** and **Collective Events**. [Reference](https://www.hackerrank.com/challenges/s10-mcq-1/tutorial)
+**Thoughts** : Learnt about *Compound*, *Mutually Exclusive* and *Collective Events*. [Reference](https://www.hackerrank.com/challenges/s10-mcq-1/tutorial)
 
-**Link of Work:**   [Commit](https://github.com/qwertypsv/HackerRank/commit/9c8cd4c0050d5609a00c0bc709183f857ac8865e#diff-00bb37795a7a9a85048fea927028abdd)
+### Day 1 : 17 July 2018
+
+**Today's Progress** : Completed 4th Day (Day 3 Challenges) of "10 Days of Statistics" in Hackerrank
+
+**Thoughts** : In *Conditional Probablity*, we are only looking for the probability that the second event occurs in a given state.
+
+**Tutorial** :[MIT](https://www.youtube.com/watch?v=JGeTcRfKgBo), [Hackerrank](https://www.hackerrank.com/challenges/s10-mcq-4/tutorial)
+
