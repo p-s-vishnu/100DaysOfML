@@ -22,5 +22,17 @@ I am taking up the challenge to to Learn  Machine Learning at least an hour ever
 ### Day 2 : 18 July 2018
 
 **Today's Progress** : Started with *Binomial Distribution* and I think I will hav to put in more time to assimilate the concepts.
+**Resources** : 
+..*[Random Variable](https://en.wikipedia.org/wiki/Random_variable) 
+..*[Binomial Experiment](https://en.wikipedia.org/wiki/Bernoulli_trial) ..*[Bernoulli Random Variable and Distribution](https://en.wikipedia.org/wiki/Bernoulli_distribution) ..*[Binomial Distribution](https://en.wikipedia.org/wiki/Binomial_distribution) ..*[Cumulative Probability](https://en.wikipedia.org/wiki/Cumulative_distribution_function). 
 
-**Resources** : [Random Variable](https://en.wikipedia.org/wiki/Random_variable), [Binomial Experiment](https://en.wikipedia.org/wiki/Bernoulli_trial), [Bernoulli Random Variable and Distribution](https://en.wikipedia.org/wiki/Bernoulli_distribution), [Binomial Distribution](https://en.wikipedia.org/wiki/Binomial_distribution) and [Cumulative Probability](https://en.wikipedia.org/wiki/Cumulative_distribution_function). 
+***
+### Day 3 : 19 July 2018
+
+**Today's Progress** : Completed Hackerrank Day 4 problems.
+**Thoughts**  : New concept *The geometric distribution is a *special case* of the negative binomial distribution that deals with the number of Bernoulli trials required to get a success*
+**Resources** : [Negative Binomial distribution & Geometric distribution](https://www.hackerrank.com/challenges/s10-geometric-distribution-1/tutorial)
+
+
+
+
