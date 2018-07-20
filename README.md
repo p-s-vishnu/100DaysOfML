@@ -31,7 +31,7 @@ I am taking up the challenge to to Learn  Machine Learning at least an hour ever
 * [Binomial Experiment](https://en.wikipedia.org/wiki/Bernoulli_trial) 
 * [Bernoulli Random Variable and Distribution](https://en.wikipedia.org/wiki/Bernoulli_distribution) 
 * [Binomial Distribution](https://en.wikipedia.org/wiki/Binomial_distribution) 
-- [Cumulative Probability](https://en.wikipedia.org/wiki/Cumulative_distribution_function). 
+* [Cumulative Probability](https://en.wikipedia.org/wiki/Cumulative_distribution_function). 
 
 ***
 ### Day 3 : 19 July 2018
@@ -42,6 +42,14 @@ I am taking up the challenge to to Learn  Machine Learning at least an hour ever
 
 **Resources** : [Negative Binomial distribution & Geometric distribution](https://www.hackerrank.com/challenges/s10-geometric-distribution-1/tutorial)
 
+***
+### Day 4 : 20 July 2018
 
+**Today's Progress** : Completed 2 problems of Day 5 Challenges
 
+**Thoughts**  : Poisson probability, which is the probability of getting exactly *k* successes when the average number of successes is *lambda*. Poisson Distribution conditions, Events are occuring randomly and independently. 
+
+**Resources** : 
+* [Poisson Distribution](https://www.hackerrank.com/challenges/s10-poisson-distribution-1/tutorial)
+* [Video](https://www.youtube.com/watch?v=jmqZG6roVqU)
 
