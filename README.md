@@ -53,3 +53,15 @@ I am taking up the challenge to to Learn  Machine Learning at least an hour ever
 * [Poisson Distribution](https://www.hackerrank.com/challenges/s10-poisson-distribution-1/tutorial)
 * [Video](https://www.youtube.com/watch?v=jmqZG6roVqU)
 
+***
+### Day 5 : 21 July 2018
+
+**Today's Progress** : Completed Day 5 Challenges
+
+**Thoughts**  : Normal distribution could have been better taught in Hackerrank. Referred khan academy for better understanding
+
+**Resources** : 
+* [Poisson Distribution](https://www.hackerrank.com/challenges/s10-normal-distribution-1/tutorial)
+* [Khan Academy](https://www.khanacademy.org/math/statistics-probability/modeling-distributions-of-data/more-on-normal-distributions/v/introduction-to-the-normal-distribution)
+
+
