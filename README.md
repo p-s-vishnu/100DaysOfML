@@ -21,6 +21,8 @@ I am taking up the challenge to to Learn  Machine Learning at least an hour ever
 
 **Resources** : [MIT](https://www.youtube.com/watch?v=JGeTcRfKgBo), [Hackerrank](https://www.hackerrank.com/challenges/s10-mcq-4/tutorial)
 
+[commit](https://github.com/qwertypsv/HackerRank/commits?author=qwertypsv&since=2018-07-14T18:30:00Z&until=2018-07-15T18:30:00Z)
+
 ***
 ### Day 2 : 18 July 2018
 
@@ -38,30 +40,46 @@ I am taking up the challenge to to Learn  Machine Learning at least an hour ever
 
 **Today's Progress** : Completed Hackerrank Day 4 problems.
 
-**Thoughts**  : New concept *The geometric distribution is a *special case* of the negative binomial distribution that deals with the number of Bernoulli trials required to get a success*
+**Thoughts**  : *The geometric distribution is a *special case* of the negative binomial distribution that deals with the number of Bernoulli trials required to get a success*
 
 **Resources** : [Negative Binomial distribution & Geometric distribution](https://www.hackerrank.com/challenges/s10-geometric-distribution-1/tutorial)
+
+[commit](https://github.com/qwertypsv/HackerRank/commits?author=qwertypsv&since=2018-07-18T18:30:00Z&until=2018-07-19T18:30:00Z)
 
 ***
 ### Day 4 : 20 July 2018
 
 **Today's Progress** : Completed 2 problems of Day 5 Challenges
 
-**Thoughts**  : Poisson probability, which is the probability of getting exactly *k* successes when the average number of successes is *lambda*. Poisson Distribution conditions, Events are occuring randomly and independently. 
+**Thoughts**  : Poisson probability, which is the probability of getting exactly *k* successes when the average number of successes is *lambda*. Poisson Distribution condition, events are occuring randomly and independently. 
 
 **Resources** : 
 * [Poisson Distribution](https://www.hackerrank.com/challenges/s10-poisson-distribution-1/tutorial)
-* [Video](https://www.youtube.com/watch?v=jmqZG6roVqU)
+* [Video - jbstatistics](https://www.youtube.com/watch?v=jmqZG6roVqU)
 
+[commit](https://github.com/qwertypsv/HackerRank/commits?author=qwertypsv&since=2018-07-19T18:30:00Z&until=2018-07-20T18:30:00Z)
 ***
 ### Day 5 : 21 July 2018
 
 **Today's Progress** : Completed Day 5 Challenges
 
-**Thoughts**  : Normal distribution could have been better taught in Hackerrank. Referred khan academy for better understanding
+**Thoughts**  : Normal distribution could have been taught better at Hackerrank. Referred khan academy for better understanding.
+* Normal distribution is a function that represents the distribution of many random variables as a symmetrical bell-shaped graph
+* Cumulative distributive function is a function which helps to compute the area under curve of probability density function.Eg: It helps in finding probability of getting value less than 'x'.
 
 **Resources** : 
-* [Poisson Distribution](https://www.hackerrank.com/challenges/s10-normal-distribution-1/tutorial)
-* [Khan Academy](https://www.khanacademy.org/math/statistics-probability/modeling-distributions-of-data/more-on-normal-distributions/v/introduction-to-the-normal-distribution)
+* [Normal Distribution](https://www.hackerrank.com/challenges/s10-normal-distribution-1/tutorial)
+* [Video - Khan Academy](https://www.khanacademy.org/math/statistics-probability/modeling-distributions-of-data/more-on-normal-distributions/v/introduction-to-the-normal-distribution)
 
+[Commit](https://github.com/qwertypsv/HackerRank/commits?author=qwertypsv&since=2018-07-20T18:30:00Z&until=2018-07-21T18:30:00Z)
 
+***
+### Day 6 : 22 July 2018
+
+**Today's Progress** : Completed Day 6 Challenges
+
+**Thoughts** : 
+* *Central Limit Theorem*, it states that if you have a population with mean 'mew' and standard deviation 'sigma' and take sufficiently large random samples from the population with replacement , then the distribution of the sample means will be approximately normally distributed.
+* z-score, it is a factor telling you with what probability you land in an interval of z standard deviations away from the mean (in both directions)
+
+[Commit](https://github.com/qwertypsv/HackerRank/commits?author=qwertypsv&since=2018-07-21T18:30:00Z&until=2018-07-22T18:30:00Z)
