@@ -103,7 +103,7 @@ I am taking up the challenge to to Learn  Machine Learning at least an hour ever
 * [Brilliant account](https://brilliant.org/profile/vishnu-dobryl/stats/discrete-mathematics/)
 
 ***
-### Day  : 
+### Day 8 : 
 
 **Today's Progress** : 
 
