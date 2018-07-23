@@ -12,6 +12,8 @@ I am taking up the challenge to to Learn  Machine Learning at least an hour ever
 **Resources** :
 [Hackerrank](https://www.hackerrank.com/challenges/s10-mcq-1/tutorial)
 
+**Link of work** : [Commit](https://github.com/qwertypsv/HackerRank/commits?author=qwertypsv&since=2018-07-15T18:30:00Z&until=2018-07-16T18:30:00Z)
+
 ***
 ### Day 1 : 17 July 2018
 
@@ -21,7 +23,7 @@ I am taking up the challenge to to Learn  Machine Learning at least an hour ever
 
 **Resources** : [MIT](https://www.youtube.com/watch?v=JGeTcRfKgBo), [Hackerrank](https://www.hackerrank.com/challenges/s10-mcq-4/tutorial)
 
-[commit](https://github.com/qwertypsv/HackerRank/commits?author=qwertypsv&since=2018-07-14T18:30:00Z&until=2018-07-15T18:30:00Z)
+**Link of work** : [Commit](https://github.com/qwertypsv/HackerRank/commits?author=qwertypsv&since=2018-07-14T18:30:00Z&until=2018-07-15T18:30:00Z)
 
 ***
 ### Day 2 : 18 July 2018
@@ -44,7 +46,7 @@ I am taking up the challenge to to Learn  Machine Learning at least an hour ever
 
 **Resources** : [Negative Binomial distribution & Geometric distribution](https://www.hackerrank.com/challenges/s10-geometric-distribution-1/tutorial)
 
-[commit](https://github.com/qwertypsv/HackerRank/commits?author=qwertypsv&since=2018-07-18T18:30:00Z&until=2018-07-19T18:30:00Z)
+**Link of work** : [Commit](https://github.com/qwertypsv/HackerRank/commits?author=qwertypsv&since=2018-07-18T18:30:00Z&until=2018-07-19T18:30:00Z)
 
 ***
 ### Day 4 : 20 July 2018
@@ -57,7 +59,8 @@ I am taking up the challenge to to Learn  Machine Learning at least an hour ever
 * [Poisson Distribution](https://www.hackerrank.com/challenges/s10-poisson-distribution-1/tutorial)
 * [Video - jbstatistics](https://www.youtube.com/watch?v=jmqZG6roVqU)
 
-[commit](https://github.com/qwertypsv/HackerRank/commits?author=qwertypsv&since=2018-07-19T18:30:00Z&until=2018-07-20T18:30:00Z)
+**Link of work** : [Commit](https://github.com/qwertypsv/HackerRank/commits?author=qwertypsv&since=2018-07-19T18:30:00Z&until=2018-07-20T18:30:00Z)
+
 ***
 ### Day 5 : 21 July 2018
 
@@ -71,7 +74,7 @@ I am taking up the challenge to to Learn  Machine Learning at least an hour ever
 * [Normal Distribution](https://www.hackerrank.com/challenges/s10-normal-distribution-1/tutorial)
 * [Video - Khan Academy](https://www.khanacademy.org/math/statistics-probability/modeling-distributions-of-data/more-on-normal-distributions/v/introduction-to-the-normal-distribution)
 
-[Commit](https://github.com/qwertypsv/HackerRank/commits?author=qwertypsv&since=2018-07-20T18:30:00Z&until=2018-07-21T18:30:00Z)
+**Link of work** : [Commit](https://github.com/qwertypsv/HackerRank/commits?author=qwertypsv&since=2018-07-20T18:30:00Z&until=2018-07-21T18:30:00Z)
 
 ***
 ### Day 6 : 22 July 2018
@@ -80,6 +83,32 @@ I am taking up the challenge to to Learn  Machine Learning at least an hour ever
 
 **Thoughts** : 
 * *Central Limit Theorem*, it states that if you have a population with mean 'mew' and standard deviation 'sigma' and take sufficiently large random samples from the population with replacement , then the distribution of the sample means will be approximately normally distributed.
-* z-score, it is a factor telling you with what probability you land in an interval of z standard deviations away from the mean (in both directions)
+* *z-score*, it is a factor telling you with what probability you land in an interval of z standard deviations away from the mean (in both directions)
 
-[Commit](https://github.com/qwertypsv/HackerRank/commits?author=qwertypsv&since=2018-07-21T18:30:00Z&until=2018-07-22T18:30:00Z)
+**Link of work** : [Commit](https://github.com/qwertypsv/HackerRank/commits?author=qwertypsv&since=2018-07-21T18:30:00Z&until=2018-07-22T18:30:00Z)
+
+***
+### Day 7 : 23 July 2018
+
+**Today's Progress** : Learnt about Pearson correlation,solved Day 7 question on 10 days of stat and also a few Conditional probability questions from Brilliant.org
+
+**Thoughts** : Had fun solving probability problems on brilliant, it is pretty addictive. 
+
+**Resources** : 
+* [Video - Expected value](https://www.khanacademy.org/math/ap-statistics/random-variables-ap/discrete-random-variables/v/expected-value-of-a-discrete-random-variable)
+* [Video - Covariance](https://www.khanacademy.org/math/statistics-probability/describing-relationships-quantitative-data/more-on-regression/v/covariance-and-the-regression-line)
+
+**Link of work** : 
+* [Commit](https://github.com/qwertypsv/HackerRank/commits?author=qwertypsv&since=2018-07-22T18:30:00Z&until=2018-07-23T18:30:00Z)
+* [Brilliant account](https://brilliant.org/profile/vishnu-dobryl/stats/discrete-mathematics/)
+
+***
+### Day  : 
+
+**Today's Progress** : 
+
+**Thoughts** : 
+
+**Resources** : 
+
+**Link of work** : [Commit]()
