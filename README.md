@@ -90,25 +90,28 @@ I am taking up the challenge to to Learn  Machine Learning at least an hour ever
 ***
 ### Day 7 : 23 July 2018
 
-**Today's Progress** : Learnt about Pearson correlation,solved Day 7 question on 10 days of stat and also a few Conditional probability questions from Brilliant.org
+**Today's Progress** : Learnt about Pearson correlation,solved Day 7 question on 10 days of stat and also completed 2 out of 6 section of Conditional probability on Brilliant.org
 
 **Thoughts** : Had fun solving probability problems on brilliant, it is pretty addictive. 
 
 **Resources** : 
 * [Video - Expected value](https://www.khanacademy.org/math/ap-statistics/random-variables-ap/discrete-random-variables/v/expected-value-of-a-discrete-random-variable)
 * [Video - Covariance](https://www.khanacademy.org/math/statistics-probability/describing-relationships-quantitative-data/more-on-regression/v/covariance-and-the-regression-line)
+* [Video - Correlation coeff](https://www.khanacademy.org/math/ap-statistics/bivariate-data-ap/correlation-coefficient-r/v/calculating-correlation-coefficient-r)
 
 **Link of work** : 
 * [Commit](https://github.com/qwertypsv/HackerRank/commits?author=qwertypsv&since=2018-07-22T18:30:00Z&until=2018-07-23T18:30:00Z)
-* [Brilliant account](https://brilliant.org/profile/vishnu-dobryl/stats/discrete-mathematics/)
+* [Brilliant's account](https://brilliant.org/profile/vishnu-dobryl/about/)
 
 ***
-### Day 8 : 
+### Day 8 : 24 July 2018
 
-**Today's Progress** : 
+**Today's Progress** : Completed Day 7 leftovers and Day 8 challenge,also worked on Brilliant's conditional probability.
 
-**Thoughts** : 
+**Thoughts** : Solving Linear regression problem was a bliss. But I was stuck in the pearson correlation challenge for regression line, eventually checked the discussion forum.
 
 **Resources** : 
+* [Least square regression line](https://www.hackerrank.com/challenges/s10-least-square-regression-line/tutorial)
+* [Video - Square error of regression line](https://www.khanacademy.org/math/statistics-probability/describing-relationships-quantitative-data/more-on-regression/v/squared-error-of-regression-line)
 
-**Link of work** : [Commit]()
+**Link of work** : [Commit](https://github.com/qwertypsv/HackerRank/commits?author=qwertypsv&since=2018-07-23T18:30:00Z&until=2018-07-24T18:30:00Z)
