@@ -115,3 +115,13 @@ I am taking up the challenge to to Learn  Machine Learning at least an hour ever
 * [Video - Square error of regression line](https://www.khanacademy.org/math/statistics-probability/describing-relationships-quantitative-data/more-on-regression/v/squared-error-of-regression-line)
 
 **Link of work** : [Commit](https://github.com/qwertypsv/HackerRank/commits?author=qwertypsv&since=2018-07-23T18:30:00Z&until=2018-07-24T18:30:00Z)
+
+
+***
+### Day 9 : 25 July 2018
+
+**Today's Progress** : completed 10 days of stat, solved 2 more sections of Conditional probability on brilliant.
+
+**Resources** : [Simple and multiple linear regression](https://towardsdatascience.com/simple-and-multiple-linear-regression-in-python-c928425168f9)
+
+**Link of work** : [Commit](https://github.com/qwertypsv/HackerRank/commits?author=qwertypsv&since=2018-07-24T18:30:00Z&until=2018-07-25T18:30:00Z)
