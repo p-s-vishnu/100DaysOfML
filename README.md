@@ -125,3 +125,13 @@ I am taking up the challenge to to Learn  Machine Learning at least an hour ever
 **Resources** : [Simple and multiple linear regression](https://towardsdatascience.com/simple-and-multiple-linear-regression-in-python-c928425168f9)
 
 **Link of work** : [Commit](https://github.com/qwertypsv/HackerRank/commits?author=qwertypsv&since=2018-07-24T18:30:00Z&until=2018-07-25T18:30:00Z)
+
+
+***
+### Day 10 : 26 July 2018
+
+**Today's Progress** :Initialized udacity's machine learning project. Installed required libraries (scikit-learn, nltk, scipy, numpy and sklearn) and downloaded the dataset. 
+
+**Thoughts** :It seems pretty fun. The course includes 16 lessons and one final project and I Expect to complete it within a month.
+
+**Link of work** : [commit](https://github.com/qwertypsv/udacity/commits?author=qwertypsv&since=2018-07-25T18:30:00Z&until=2018-07-26T18:30:00Z)
