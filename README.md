@@ -21,7 +21,9 @@ I am taking up the challenge to to Learn  Machine Learning at least an hour ever
 
 **Thoughts** : In *Conditional Probablity*, we are only looking for the probability that the second event occurs in a given state. *Eg:* While tossing a coin twice, probability that you get two heads and the probability that you get head in 2nd toss given that 1st one was a head both are not equal.
 
-**Resources** : [MIT](https://www.youtube.com/watch?v=JGeTcRfKgBo), [Hackerrank](https://www.hackerrank.com/challenges/s10-mcq-4/tutorial)
+**Resources** : 
+* [MIT](https://www.youtube.com/watch?v=JGeTcRfKgBo)
+* [Hackerrank](https://www.hackerrank.com/challenges/s10-mcq-4/tutorial)
 
 **Link of work** : [Commit](https://github.com/qwertypsv/HackerRank/commits?author=qwertypsv&since=2018-07-14T18:30:00Z&until=2018-07-15T18:30:00Z)
 
@@ -134,4 +136,15 @@ I am taking up the challenge to to Learn  Machine Learning at least an hour ever
 
 **Thoughts** :It seems pretty fun. The course includes 16 lessons and one final project and I Expect to complete it within a month.
 
-**Link of work** : [commit](https://github.com/qwertypsv/udacity/commits?author=qwertypsv&since=2018-07-25T18:30:00Z&until=2018-07-26T18:30:00Z)
+**Link of work** : [Commit](https://github.com/qwertypsv/udacity/commits?author=qwertypsv&since=2018-07-25T18:30:00Z&until=2018-07-26T18:30:00Z)
+
+***
+### Day 11 : 27 July 2018
+
+**Today's Progress** : Completed Naive bayes assignment, acheived SQL level 4 badge and solved another section brilliants' conditional probability.
+
+**Thoughts** : The assignment seemed pretty intimidating at first but soon it became pretty fun. I will need more practice of advanced queries in order to achieve the final badge at Hackerrank.
+
+**Link of work** :
+* [Commit](https://github.com/qwertypsv/udacity/commits?author=qwertypsv&since=2018-07-26T18:30:00Z&until=2018-07-27T18:30:00Z) 
+* [Hackerrank](https://www.hackerrank.com/qwertypsv)
