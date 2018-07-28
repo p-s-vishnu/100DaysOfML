@@ -148,3 +148,15 @@ I am taking up the challenge to to Learn  Machine Learning at least an hour ever
 **Link of work** :
 * [Commit](https://github.com/qwertypsv/udacity/commits?author=qwertypsv&since=2018-07-26T18:30:00Z&until=2018-07-27T18:30:00Z) 
 * [Hackerrank](https://www.hackerrank.com/qwertypsv)
+
+***
+### Day 12 : 28 July 2018
+
+**Today's Progress** : Started SVM also solving few probability questions and understanding concepts better.
+
+**Thoughts** : Switched from Time based work to Task based approach it is taking a lot of time but I am indeed delving deep into each topic. Conditional probability helps in deriving an *inference* from *cause - effect* model, pretty much reverse relation.Revised two laws - Multiplicative and Law of total probability. 
+
+**Resources** :
+* [Video - Monty hall problem](https://www.youtube.com/watch?v=L30HPgryd6I)
+* [Video - Conditional and Bayes' rule](https://www.youtube.com/watch?v=TluTv5V0RmE)
+
