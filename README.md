@@ -160,3 +160,24 @@ I am taking up the challenge to to Learn  Machine Learning at least an hour ever
 * [Video - Monty hall problem](https://www.youtube.com/watch?v=L30HPgryd6I)
 * [Video - Conditional and Bayes' rule](https://www.youtube.com/watch?v=TluTv5V0RmE)
 
+***
+### Day 13 : 29 July 2018
+
+
+**Today's Progress** : Completed Udacity's SVM and started with Decision Tree,also completed SQL course by Stanford.
+
+**Thoughts** :
+
+* NULL values in database may have unknown behaviour. E.g: while displaying distinct values with null you might get a blank value too, but when you count the distinct values it will skip the null values
+* Liked this question many questions from the SQL course, one of those were
+```
+For all cases where the same reviewer rated the same movie twice and gave it a higher rating the second time, return the reviewer's name and the title of the movie.
+```
+* Will be soon writing an article covering solutions of SQL - Stanford Online
+
+**Resources** :
+* [SQL - Stanford Online](https://lagunita.stanford.edu/courses/DB/SQL/SelfPaced/about)
+
+**Link of work** :
+
+* [Commit](https://github.com/qwertypsv/udacity/commits?author=qwertypsv&since=2018-07-28T18:30:00Z&until=2018-07-29T18:30:00Z)
