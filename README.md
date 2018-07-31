@@ -163,16 +163,16 @@ I am taking up the challenge to to Learn  Machine Learning at least an hour ever
 ***
 ### Day 13 : 29 July 2018
 
-
 **Today's Progress** : Completed Udacity's SVM and started with Decision Tree,also completed SQL course by Stanford.
 
 **Thoughts** :
 
 * NULL values in database may have unknown behaviour. E.g: while displaying distinct values with null you might get a blank value too, but when you count the distinct values it will skip the null values
 * Liked this question many questions from the SQL course, one of those were
-```
-For all cases where the same reviewer rated the same movie twice and gave it a higher rating the second time, return the reviewer's name and the title of the movie.
-```
+
+> For all cases where the same reviewer rated the same movie twice and gave it a higher rating the second time, 
+> return the reviewer's name and the title of the movie.
+
 * Will be soon writing an article covering solutions of SQL - Stanford Online
 
 **Resources** :
@@ -181,3 +181,28 @@ For all cases where the same reviewer rated the same movie twice and gave it a h
 **Link of work** :
 
 * [Commit](https://github.com/qwertypsv/udacity/commits?author=qwertypsv&since=2018-07-28T18:30:00Z&until=2018-07-29T18:30:00Z)
+
+
+***
+### Day 14 : 30 July 2018
+
+**Today's Progress** : Completed Module 1/9 of Brilliant's Artificial Neural Network and Working on decision trees.
+
+**Thoughts** : 
+
+* A neuron in ANN behaves similar to brain's neuron, it only *fires* if it is above a given threshold.
+
+**Resources**: [Decision Tree - scikit learn](http://scikit-learn.org/stable/modules/tree.html)
+
+***
+### Day 15 : 31 July 2018
+
+**Today's Progress** : Completed Decision tree assignment, started with Adaboost
+
+**Thoughts**:
+
+* Requires little data preparation
+* The cost of using the tree (i.e., predicting data) is logarithmic
+* Decision tree learners create biased trees if some classes dominate. It is therefore recommended to balance the dataset prior to fitting with the decision tree.
+
+**Resources**: [Decision Tree Classifier](http://scikit-learn.org/stable/modules/generated/sklearn.tree.DecisionTreeClassifier.html#sklearn.tree.DecisionTreeClassifier)
