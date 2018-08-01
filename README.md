@@ -197,7 +197,7 @@ I am taking up the challenge to to Learn  Machine Learning at least an hour ever
 ***
 ### Day 15 : 31 July 2018
 
-**Today's Progress** : Completed Decision tree assignment, started with Adaboost
+**Today's Progress** : Completed Decision tree assignment, started with KNN
 
 **Thoughts**:
 
@@ -206,3 +206,22 @@ I am taking up the challenge to to Learn  Machine Learning at least an hour ever
 * Decision tree learners create biased trees if some classes dominate. It is therefore recommended to balance the dataset prior to fitting with the decision tree.
 
 **Resources**: [Decision Tree Classifier](http://scikit-learn.org/stable/modules/generated/sklearn.tree.DecisionTreeClassifier.html#sklearn.tree.DecisionTreeClassifier)
+
+**Link of Work**:
+* [Commit](https://github.com/qwertypsv/udacity/commit/fef14cd7a56cfa6de6c2c456866e329d1dd05d3d)
+* [Commit - Jupyter notebook](https://github.com/qwertypsv/Documents/commits?author=qwertypsv&since=2018-07-30T18:30:00Z&until=2018-07-31T18:30:00Z)
+
+
+***
+### Day 16 : 1 August 2018
+
+**Today's Progress** : Tried terrain classification problem with KNN
+
+**Thoughts**: 
+* KNN is analogous to a voting system, the votes of the nearnest neighbour are accounted in order to predict the class of test point. 
+
+**Resources**: 
+* [Analytics Vidhya](https://www.analyticsvidhya.com/blog/2018/03/introduction-k-neighbours-algorithm-clustering/)
+
+**Link of Work**:
+*[Commit](https://github.com/qwertypsv/udacity/commits?author=qwertypsv&since=2018-07-31T18:30:00Z&until=2018-08-01T18:30:00Z)
