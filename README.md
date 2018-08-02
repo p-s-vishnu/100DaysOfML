@@ -168,7 +168,7 @@ I am taking up the challenge to to Learn  Machine Learning at least an hour ever
 **Thoughts** :
 
 * NULL values in database may have unknown behaviour. E.g: while displaying distinct values with null you might get a blank value too, but when you count the distinct values it will skip the null values
-* Liked this question many questions from the SQL course, one of those were
+* I Liked many questions from the SQL course, one of those were
 
 > For all cases where the same reviewer rated the same movie twice and gave it a higher rating the second time, 
 > return the reviewer's name and the title of the movie.
@@ -224,4 +224,20 @@ I am taking up the challenge to to Learn  Machine Learning at least an hour ever
 * [Analytics Vidhya](https://www.analyticsvidhya.com/blog/2018/03/introduction-k-neighbours-algorithm-clustering/)
 
 **Link of Work**:
-*[Commit](https://github.com/qwertypsv/udacity/commits?author=qwertypsv&since=2018-07-31T18:30:00Z&until=2018-08-01T18:30:00Z)
+[Commit](https://github.com/qwertypsv/udacity/commits?author=qwertypsv&since=2018-07-31T18:30:00Z&until=2018-08-01T18:30:00Z)
+
+*** 
+### Day 17 : 2 August 2018
+**Today's Progress** : Adaboost classifier
+
+**Thoughts**
+* Ensemble method, meta-algorithms that combine several machine learning techniques into one predictive model in order to decrease variance (bagging), bias (boosting), or improve predictions (stacking)
+* AdaBoost, short for Adaptive Boosting, is a machine learning meta-algorithm formulated by Yoav Freund and Robert Schapire, who won the 2003 Gödel Prize for their work. It can be used in conjunction with many other types of learning algorithms to improve performance.
+* It is a meta-estimator(usually built from decision trees) that begins by fitting a classifier on the original dataset and then fits additional copies of the classifier on the same dataset but where the weights of incorrectly classified instances are adjusted such that subsequent classifiers focus more on difficult cases.
+
+**Resources**
+* [Video - MIT](https://www.youtube.com/watch?v=UHBmv7qCey4)
+* [Video]((https://www.youtube.com/watch?v=BoGNyWW9-mE)) 
+
+**Link of work**
+[Commit](https://github.com/qwertypsv/udacity/commits?author=qwertypsv&since=2018-08-01T18:30:00Z&until=2018-08-02T18:30:00Z)
