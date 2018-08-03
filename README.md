@@ -205,7 +205,9 @@ I am taking up the challenge to to Learn  Machine Learning at least an hour ever
 * The cost of using the tree (i.e., predicting data) is logarithmic
 * Decision tree learners create biased trees if some classes dominate. It is therefore recommended to balance the dataset prior to fitting with the decision tree.
 
-**Resources**: [Decision Tree Classifier](http://scikit-learn.org/stable/modules/generated/sklearn.tree.DecisionTreeClassifier.html#sklearn.tree.DecisionTreeClassifier)
+**Resources**: 
+* [Decision Tree Classifier - Scikit](http://scikit-learn.org/stable/modules/generated/sklearn.tree.DecisionTreeClassifier.html#sklearn.tree.DecisionTreeClassifier)
+* [Video - Google developers](https://www.youtube.com/watch?v=LDRbO9a6XPU)
 
 **Link of Work**:
 * [Commit](https://github.com/qwertypsv/udacity/commit/fef14cd7a56cfa6de6c2c456866e329d1dd05d3d)
@@ -241,3 +243,15 @@ I am taking up the challenge to to Learn  Machine Learning at least an hour ever
 
 **Link of work**
 [Commit](https://github.com/qwertypsv/udacity/commits?author=qwertypsv&since=2018-08-01T18:30:00Z&until=2018-08-02T18:30:00Z)
+
+
+*** 
+### Day 18 : 3 August 2018
+**Today's Progress** : Random forest
+
+**Thoughts**
+* Random forests or random decision forests are an ensemble learning method for classification, regression and other tasks, that operate by constructing a multitude of decision trees at training time and outputting the class that is the mode of the classes (classification) or mean prediction (regression) 
+
+**Resources**
+* [Random forest - sklearn](http://scikit-learn.org/stable/modules/generated/sklearn.ensemble.RandomForestClassifier.html)
+* [Video - Augmented startups](https://www.youtube.com/watch?v=D_2LkhMJcfY)
