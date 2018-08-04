@@ -239,7 +239,7 @@ I am taking up the challenge to to Learn  Machine Learning at least an hour ever
 
 **Resources**
 * [Video - MIT](https://www.youtube.com/watch?v=UHBmv7qCey4)
-* [Video]((https://www.youtube.com/watch?v=BoGNyWW9-mE)) 
+* [Video](https://www.youtube.com/watch?v=BoGNyWW9-mE)
 
 **Link of work**
 [Commit](https://github.com/qwertypsv/udacity/commits?author=qwertypsv&since=2018-08-01T18:30:00Z&until=2018-08-02T18:30:00Z)
@@ -255,3 +255,17 @@ I am taking up the challenge to to Learn  Machine Learning at least an hour ever
 **Resources**
 * [Random forest - sklearn](http://scikit-learn.org/stable/modules/generated/sklearn.ensemble.RandomForestClassifier.html)
 * [Video - Augmented startups](https://www.youtube.com/watch?v=D_2LkhMJcfY)
+
+*** 
+### Day 19 : 4 August 2018
+**Today's Progress** : Enron dataset - Udacity
+
+**Thoughts**
+
+* Enron scandal is pretty interesting case to study, creating a classifier which can correctly identify a new person as 'POI' (Person Of Interest) will be challenging.
+* The biggest challenge is lack of data, artificially adding new data might affect the classifier adversely 
+
+**Resources**: [Enron The smartest guy in the room](https://www.youtube.com/watch?v=H2f7FunDuTU&t=246s)
+
+**Link of work**
+[Commit](https://github.com/qwertypsv/udacity/commits?author=qwertypsv&since=2018-08-03T18:30:00Z&until=2018-08-04T18:30:00Z)
