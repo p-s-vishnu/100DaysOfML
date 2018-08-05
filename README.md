@@ -269,3 +269,16 @@ I am taking up the challenge to to Learn  Machine Learning at least an hour ever
 
 **Link of work**
 [Commit](https://github.com/qwertypsv/udacity/commits?author=qwertypsv&since=2018-08-03T18:30:00Z&until=2018-08-04T18:30:00Z)
+
+*** 
+### Day 20 :5 August 2018
+
+**Today's Progress** : Udacity's Regression
+
+**Thoughts**
+* Multivariate regression was emphasised more in the exercise.
+* Scikit learn linear_model was used
+
+**Resources**: [linear_model sci-kit learn](http://scikit-learn.org/stable/modules/linear_model.html)
+
+**Link of work**: [Commit](https://github.com/qwertypsv/udacity/commits?author=qwertypsv&since=2018-08-04T18:30:00Z&until=2018-08-05T18:30:00Z)
