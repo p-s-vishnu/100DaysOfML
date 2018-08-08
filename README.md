@@ -282,3 +282,34 @@ I am taking up the challenge to to Learn  Machine Learning at least an hour ever
 **Resources**: [linear_model sci-kit learn](http://scikit-learn.org/stable/modules/linear_model.html)
 
 **Link of work**: [Commit](https://github.com/qwertypsv/udacity/commits?author=qwertypsv&since=2018-08-04T18:30:00Z&until=2018-08-05T18:30:00Z)
+
+*** 
+### Day 21 :6 August 2018
+
+**Today's Progress** : Udacity's Outlier
+
+**Thoughts**: Performed outlier detection and removal.
+
+**Resource**: This was a nice read [Drake - Using NLP to understand his lyrics](https://towardsdatascience.com/drake-using-natural-language-processing-to-understand-his-lyrics-49e54ace3662)
+
+**Link of work**: [Commit](https://github.com/qwertypsv/udacity/commits?author=qwertypsv&since=2018-08-05T18:30:00Z&until=2018-08-06T18:30:00Z)
+
+*** 
+### Day 22 :7 August 2018
+
+**Today's Progress** : Unsupervised learning
+
+**Resources** : 
+* [Unsupervised learning intro](https://blog.algorithmia.com/introduction-to-unsupervised-learning/)
+* [Visualizing K-means](https://www.naftaliharris.com/blog/visualizing-k-means-clustering/).
+* [Overview clustering - sklearn](http://scikit-learn.org/stable/modules/clustering.html)
+
+**Link of work** : [Commit](https://github.com/qwertypsv/udacity/commits?author=qwertypsv&since=2018-08-06T18:30:00Z&until=2018-08-07T18:30:00Z)
+
+***
+### Day 23 :8 August 2018
+
+**Today's Progress** : Feature scaling
+
+**Link of work** :
+[Commit](https://github.com/qwertypsv/udacity/commits?author=qwertypsv&since=2018-08-07T18:30:00Z&until=2018-08-08T18:30:00Z)
