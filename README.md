@@ -313,3 +313,11 @@ I am taking up the challenge to to Learn  Machine Learning at least an hour ever
 
 **Link of work** :
 [Commit](https://github.com/qwertypsv/udacity/commits?author=qwertypsv&since=2018-08-07T18:30:00Z&until=2018-08-08T18:30:00Z)
+
+***
+### Day 24 :9 August 2018
+
+**Today's Progress** : Feature scaling completed
+
+**Link of work** :
+[Commit](https://github.com/qwertypsv/udacity/commits?author=qwertypsv&since=2018-08-08T18:30:00Z&until=2018-08-09T18:30:00Z)
