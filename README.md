@@ -1,6 +1,16 @@
 # 100DaysOfML
 I am taking up the challenge to to Learn  Machine Learning at least an hour everyday!!  
 
+## Objectives of challenge, 
+1) Math and Statistics
+2) Python - Data structures and Algorithms
+3) Machine learning algorithms 
+4) Projects
+	a) Personal 
+	b) Open source 
+	c) Hackathon
+5) Intro to deep learning (last 30 days)
+
 ## Daily Log
 
 ### Day 0 : 16 July 2018
@@ -321,3 +331,24 @@ I am taking up the challenge to to Learn  Machine Learning at least an hour ever
 
 **Link of work** :
 [Commit](https://github.com/qwertypsv/udacity/commits?author=qwertypsv&since=2018-08-08T18:30:00Z&until=2018-08-09T18:30:00Z)
+
+***
+### Day 24 :10 August 2018
+
+**Today's Progress** : Resolving merge conflicts om github
+
+**Link of work** :[Commit](https://github.com/qwertypsv/merge-conflict/commits?author=qwertypsv&since=2018-08-09T18:30:00Z&until=2018-08-10T18:30:00Z)
+
+***
+### Day 24 :11 August 2018
+
+**Today's Progress** : Started data visualization with python
+
+**Link of work** :[Commit](https://github.com/qwertypsv/Documents/commits?author=qwertypsv&since=2018-08-10T18:30:00Z&until=2018-08-11T18:30:00Z)
+
+***
+### Day 25 :12 August 2018
+
+**Today's Progress** : Data visualization with python, 2 more sections to go
+
+**Link of work** :[Commit](https://github.com/qwertypsv/Documents/commits?author=qwertypsv&since=2018-08-11T18:30:00Z&until=2018-08-12T18:30:00Z)
