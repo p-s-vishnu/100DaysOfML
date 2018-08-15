@@ -5,7 +5,7 @@ I am taking up the challenge to to Learn  Machine Learning at least an hour ever
 1) Math and Statistics
 2) Python - Data structures and Algorithms
 3) Machine learning algorithms 
-4) Projects
+4) ML Projects
 	* Personal 
 	* Open source 
 	* Hackathon
@@ -244,7 +244,7 @@ I am taking up the challenge to to Learn  Machine Learning at least an hour ever
 
 **Thoughts**
 * Ensemble method, meta-algorithms that combine several machine learning techniques into one predictive model in order to decrease variance (bagging), bias (boosting), or improve predictions (stacking)
-* AdaBoost, short for Adaptive Boosting, is a machine learning meta-algorithm formulated by Yoav Freund and Robert Schapire, who won the 2003 Gödel Prize for their work. It can be used in conjunction with many other types of learning algorithms to improve performance.
+* AdaBoost, short for Adaptive Boosting, is a machine learning meta-algorithm formulated by Yoav Freund and Robert Schapire, who won the 2003 GÃ¶del Prize for their work. It can be used in conjunction with many other types of learning algorithms to improve performance.
 * It is a meta-estimator(usually built from decision trees) that begins by fitting a classifier on the original dataset and then fits additional copies of the classifier on the same dataset but where the weights of incorrectly classified instances are adjusted such that subsequent classifiers focus more on difficult cases.
 
 **Resources**
@@ -353,9 +353,23 @@ I am taking up the challenge to to Learn  Machine Learning at least an hour ever
 
 **Link of work** :
 * [Commit](https://github.com/qwertypsv/Documents/commits?author=qwertypsv&since=2018-08-11T18:30:00Z&until=2018-08-12T18:30:00Z)
-* [Commit]()
 
 ***
 ### Day 26 :13 August 2018
 
 **Today's Progress** : Data visualization with python theory
+
+***
+### Day 27 :14 August 2018
+
+**Today's Progress** : Udacity's Github tutorial
+
+**Resource**: [Udacity - How to use git and github](https://in.udacity.com/course/how-to-use-git-and-github--ud775-india)
+
+**Link of work**: [Commit](https://github.com/qwertypsv/Documents/commits?author=qwertypsv&since=2018-08-13T18:30:00Z&until=2018-08-14T18:30:00Z)
+
+***
+### Day 28 :15 August 2018
+
+**Today's progress** : IBM's Data visualization theory part completed, only final exam remaining
+
