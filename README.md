@@ -373,3 +373,9 @@ I am taking up the challenge to to Learn  Machine Learning at least an hour ever
 
 **Today's progress** : IBM's Data visualization theory part completed, only final exam remaining
 
+***
+### Day 29 :16 August 2018
+
+**Today's progress** : Udacity's github training
+
+***
