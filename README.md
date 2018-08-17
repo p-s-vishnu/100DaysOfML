@@ -379,3 +379,7 @@ I am taking up the challenge to to Learn  Machine Learning at least an hour ever
 **Today's progress** : Udacity's github training
 
 ***
+### Day 30 :17 August 2018
+
+**Today's progress** : Completed IBM's course - visualization using python, udacity github training one module remaining
+***
