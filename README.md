@@ -397,4 +397,7 @@ I am taking up the challenge to to Learn  Machine Learning at least an hour ever
 ### Day 33 :20 August 2018
 
 **Today's progress** : Brilliant's Linear regression - 2/6 Quiz
+***
+### Day 34 :21 August 2018
 
+**Today's progress** : Brilliant's Linear regression - 3/6 Quiz
