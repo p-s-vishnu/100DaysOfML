@@ -431,6 +431,7 @@ I am taking up the challenge to to Learn  Machine Learning at least an hour ever
 
 **Link of work**: [Commit](https://github.com/p-s-vishnu/Kaggle/commits/master)
 
+***
 ### Day 40 :27 August
 
 **Today's progress** :Logistic classification
