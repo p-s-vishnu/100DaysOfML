@@ -430,3 +430,9 @@ I am taking up the challenge to to Learn  Machine Learning at least an hour ever
 **Today's progress** :Kaggle titanic
 
 **Link of work**: [Commit](https://github.com/p-s-vishnu/Kaggle/commits/master)
+
+### Day 40 :27 August
+
+**Today's progress** :Logistic classification
+
+**Link of work** :[Commit](https://github.com/p-s-vishnu/Documents/commits?author=p-s-vishnu&since=2018-08-26T18:30:00Z&until=2018-08-27T18:30:00Z)
