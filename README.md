@@ -447,3 +447,8 @@ I am taking up the challenge to to Learn  Machine Learning at least an hour ever
 ### Day 42 :29 August
 
 **Today's progress** : KNN classification - 4/6 
+
+***
+### Day 43 & 44 :31 August
+
+**Today's progress** : Completed Linear classification module on brilliant
