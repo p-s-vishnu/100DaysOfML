@@ -452,3 +452,8 @@ I am taking up the challenge to to Learn  Machine Learning at least an hour ever
 ### Day 43 & 44 :31 August
 
 **Today's progress** : Completed Linear classification module on brilliant
+
+***
+### Day 45 : 1 September
+
+**Today's progress** : Started trees, Tree regression 1/6 
