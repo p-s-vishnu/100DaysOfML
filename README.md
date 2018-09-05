@@ -464,13 +464,27 @@ I am taking up the challenge to to Learn  Machine Learning at least an hour ever
 
 ### Day 46 : 2 September
 
-**Todays progress** : Completed Trees
+**Today's progress** : Completed Trees
 
 **Link of work** : [Commit](https://github.com/p-s-vishnu/Documents/commits?author=p-s-vishnu&since=2018-09-01T18:30:00Z&until=2018-09-02T18:30:00Z)
 
 ***
 ### Day 47 : 3 September
 
-**Todays progress** :Started SVM, Hard margin support vectors
+**Today's progress** :Started SVM, Hard margin support vectors
 
 **Link of work** : [Commit](https://github.com/p-s-vishnu/Documents/commits?author=p-s-vishnu&since=2018-09-02T18:30:00Z&until=2018-09-03T18:30:00Z)
+
+***
+### Day 48 : 4 September
+
+**Today's progress** :Completed soft margin boundaries
+
+**Link of work** [Commit](https://github.com/p-s-vishnu/Documents/commits?author=p-s-vishnu&since=2018-09-03T18:30:00Z&until=2018-09-04T18:30:00Z)
+
+***
+### Day 49 : 5 September
+
+**Today's progress** : Completed SVM non linear decision boundaries
+
+**Link of work** : [Commit](https://github.com/p-s-vishnu/Documents/commits?author=p-s-vishnu&since=2018-09-04T18:30:00Z&until=2018-09-05T18:30:00Z)
