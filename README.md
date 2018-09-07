@@ -488,3 +488,15 @@ I am taking up the challenge to to Learn  Machine Learning at least an hour ever
 **Today's progress** : Completed SVM non linear decision boundaries
 
 **Link of work** : [Commit](https://github.com/p-s-vishnu/Documents/commits?author=p-s-vishnu&since=2018-09-04T18:30:00Z&until=2018-09-05T18:30:00Z)
+
+***
+### Day 50 : 6 September
+
+**Today's progress** : Connection to logistic regression and svm
+
+**Link of work** : [Commit](https://github.com/p-s-vishnu/Documents/commits?author=p-s-vishnu&since=2018-09-05T18:30:00Z&until=2018-09-06T18:30:00Z)
+
+***
+### Day 51 : 7 September
+
+**Today's progress** : Completed reading kernels in brilliant
