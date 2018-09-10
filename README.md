@@ -516,3 +516,15 @@ I am taking up the challenge to to Learn  Machine Learning at least an hour ever
 **Link of work** : 
 * [Commit](https://github.com/p-s-vishnu/Documents/commits?author=p-s-vishnu&since=2018-09-08T18:30:00Z&until=2018-09-09T18:30:00Z)
 * [Certificate](https://courses.cognitiveclass.ai/certificates/user/942200/course/course-v1:CognitiveClass+DA0101EN+2017)
+
+***
+### Day 54 : 10 September
+
+**Today's progress** : Started with gender classification dataset and Sirajs Python for data science
+
+**Resources** :
+* [Python for DS #1](https://www.youtube.com/watch?v=T5pRlIbr6gg&index=1&list=PL2-dafEMk2A6QKz1mrk1uIGfHkC1zZ6UU)
+* [Python for DS #2](https://www.youtube.com/watch?v=o_OZdbCzHUA&list=PL2-dafEMk2A6QKz1mrk1uIGfHkC1zZ6UU&index=3&t=1s)
+
+**Link of work** : [Commit](https://github.com/p-s-vishnu/Opinion_based_gender_classification/commits?author=p-s-vishnu&since=2018-09-09T18:30:00Z&until=2018-09-10T18:30:00Z)
+
