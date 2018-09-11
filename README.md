@@ -528,3 +528,9 @@ I am taking up the challenge to to Learn  Machine Learning at least an hour ever
 
 **Link of work** : [Commit](https://github.com/p-s-vishnu/Opinion_based_gender_classification/commits?author=p-s-vishnu&since=2018-09-09T18:30:00Z&until=2018-09-10T18:30:00Z)
 
+***
+### Day 55 : 11 September
+
+**Today's progress** : Setting up Google colab and data set
+
+***
