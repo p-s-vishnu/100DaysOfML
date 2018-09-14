@@ -536,13 +536,17 @@ I am taking up the challenge to to Learn  Machine Learning at least an hour ever
 ***
 ### Day 56 : 12 September
 
-**Today's progress : Data analysis in Gender classification
+**Today's progress** : Data analysis in Gender classification
 
 ***
 ### Day 57 : 13 September 
 
-**Today's progress : Completed Python for data science playlist by siraj
+**Today's progress** : Completed Python for data science playlist by siraj
 
 **Resource** : [Youtube playlist](https://www.youtube.com/playlist?list=PL2-dafEMk2A6QKz1mrk1uIGfHkC1zZ6UU)
 
 ***
+### Day 58 : 14 September
+
+**Today's progress** ; Titanic kaggle competition, Watching Google Dopamine by Siraj
+
