@@ -548,5 +548,11 @@ I am taking up the challenge to to Learn  Machine Learning at least an hour ever
 ***
 ### Day 58 : 14 September
 
-**Today's progress** ; Titanic kaggle competition, Watching Google Dopamine by Siraj
+**Today's progress** : Titanic kaggle competition, Watching Google Dopamine by Siraj
 
+***
+### Day 59 : 15 September
+
+**Today's progress** : Loan prediction visualization.
+
+**Link of work** : [Commit](https://github.com/p-s-vishnu/Kaggle/commits?author=p-s-vishnu&since=2018-09-14T18:30:00Z&until=2018-09-15T18:30:00Z)
