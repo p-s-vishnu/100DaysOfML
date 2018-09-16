@@ -556,3 +556,10 @@ I am taking up the challenge to to Learn  Machine Learning at least an hour ever
 **Today's progress** : Loan prediction visualization.
 
 **Link of work** : [Commit](https://github.com/p-s-vishnu/Kaggle/commits?author=p-s-vishnu&since=2018-09-14T18:30:00Z&until=2018-09-15T18:30:00Z)
+
+***
+### Day 60 : 16 September
+
+**Today's progress** : Hyperparameter optimization, tried out plotly visualization on Loan prediction dataset
+
+**Resource** : [Math of intelligence #7](https://www.youtube.com/watch?v=ttE0F7fghfk)
