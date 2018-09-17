@@ -563,3 +563,15 @@ I am taking up the challenge to to Learn  Machine Learning at least an hour ever
 **Today's progress** : Hyperparameter optimization, tried out plotly visualization on Loan prediction dataset
 
 **Resource** : [Math of intelligence #7](https://www.youtube.com/watch?v=ttE0F7fghfk)
+
+***
+### Day 61 : 17 September
+
+**Today's progress** : Worked on python kernel - Kaggle learning path
+
+**Resources** :
+- [Hello python](https://www.kaggle.com/colinmorris/hello-python)
+- [Functions and getting help](https://www.kaggle.com/colinmorris/functions-and-getting-help)
+- [Boolens and conditional](https://www.kaggle.com/colinmorris/booleans-and-conditionals)
+
+**Link of work** : [Commit](https://github.com/p-s-vishnu/Kaggle/commits?author=p-s-vishnu&since=2018-09-16T18:30:00Z&until=2018-09-17T18:30:00Z)
