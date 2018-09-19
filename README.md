@@ -579,9 +579,21 @@ I am taking up the challenge to to Learn  Machine Learning at least an hour ever
 ***
 ### Day 62 : 18 September
 
-**Today's progress** : Completed Lists on Kaggle
+**Today's progress** : Completed Lists Kernel on Kaggle
 
 **Resource** :
 * [Lists](https://www.kaggle.com/colinmorris/lists)
 
 **Link of work** : [Commit](https://github.com/p-s-vishnu/Kaggle/commits?author=p-s-vishnu&since=2018-09-17T18:30:00Z&until=2018-09-18T18:30:00Z)
+
+***
+### Day 63 : 19 September
+
+**Today's progress** :
+
+**Resources** : 
+* [Loops and list comprehension](https://www.kaggle.com/colinmorris/loops-and-list-comprehensions)
+* [Strings and Dictionaries](https://www.kaggle.com/colinmorris/strings-and-dictionaries)
+
+**Link of work** : [Commit](https://github.com/p-s-vishnu/Kaggle/commits?author=p-s-vishnu&since=2018-09-18T18:30:00Z&until=2018-09-19T18:30:00Z)
+
