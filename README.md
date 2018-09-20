@@ -589,7 +589,7 @@ I am taking up the challenge to to Learn  Machine Learning at least an hour ever
 ***
 ### Day 63 : 19 September
 
-**Today's progress** :
+**Today's progress** : Working on Strings and dictionaries
 
 **Resources** : 
 * [Loops and list comprehension](https://www.kaggle.com/colinmorris/loops-and-list-comprehensions)
@@ -597,3 +597,9 @@ I am taking up the challenge to to Learn  Machine Learning at least an hour ever
 
 **Link of work** : [Commit](https://github.com/p-s-vishnu/Kaggle/commits?author=p-s-vishnu&since=2018-09-18T18:30:00Z&until=2018-09-19T18:30:00Z)
 
+***
+### Day 64 : 20 September
+
+**Today's progress** : Completed Strings and dictionary, last problem in the notebook is very cool
+
+**Link of work** : [Commit](https://github.com/p-s-vishnu/Kaggle/commits?author=p-s-vishnu&since=2018-09-19T18:30:00Z&until=2018-09-20T18:30:00Z)
