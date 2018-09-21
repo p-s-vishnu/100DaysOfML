@@ -603,3 +603,11 @@ I am taking up the challenge to to Learn  Machine Learning at least an hour ever
 **Today's progress** : Completed Strings and dictionary, last problem in the notebook is very cool
 
 **Link of work** : [Commit](https://github.com/p-s-vishnu/Kaggle/commits?author=p-s-vishnu&since=2018-09-19T18:30:00Z&until=2018-09-20T18:30:00Z)
+
+***
+### Day 65 : 21 September
+
+**Today's progress** : Working on Excercise - Working with external libraries
+
+**Resource** : [Working with external libraries](https://www.kaggle.com/colinmorris/working-with-external-libraries)
+**Link of work** : [Commit](https://github.com/p-s-vishnu/Kaggle/commits?author=p-s-vishnu&since=2018-09-20T18:30:00Z&until=2018-09-21T18:30:00Z)
