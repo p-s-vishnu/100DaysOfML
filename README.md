@@ -611,3 +611,10 @@ I am taking up the challenge to to Learn  Machine Learning at least an hour ever
 
 **Resource** : [Working with external libraries](https://www.kaggle.com/colinmorris/working-with-external-libraries)
 **Link of work** : [Commit](https://github.com/p-s-vishnu/Kaggle/commits?author=p-s-vishnu&since=2018-09-20T18:30:00Z&until=2018-09-21T18:30:00Z)
+
+***
+### Day 66 : 22 September
+
+**Today's progress** : Tensorflow playlist by siraj
+
+
