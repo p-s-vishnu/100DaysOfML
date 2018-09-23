@@ -615,6 +615,22 @@ I am taking up the challenge to to Learn  Machine Learning at least an hour ever
 ***
 ### Day 66 : 22 September
 
-**Today's progress** : Tensorflow playlist by siraj
+**Today's progress** : Watching Tensorflow playlist by siraj
 
+***
+### Day 67 : 23 September
 
+**Today's progress** : Completed Tensorflow playlist by Siraj
+
+**Resources** : [Playlist](https://www.youtube.com/watch?v=2FmcHiLCwTU&list=PL2-dafEMk2A7EEME489DsI468AB0wQsMV)
+
+**Link of work** : [Commit](https://github.com/p-s-vishnu/Documents/commits?author=p-s-vishnu&since=2018-09-22T18:30:00Z&until=2018-09-23T18:30:00Z)
+
+***
+### Day  : 
+
+**Today's progress** : 
+
+**Resources** : 
+
+**Link of work** :
