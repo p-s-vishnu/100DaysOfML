@@ -636,10 +636,21 @@ I am taking up the challenge to to Learn  Machine Learning at least an hour ever
 **Link of work** : [Commit](https://github.com/p-s-vishnu/Documents/commits?author=p-s-vishnu&since=2018-09-23T18:30:00Z&until=2018-09-24T18:30:00Z)
 
 ***
+### Day 69 : 25 September
+
+**Today's progress** : Simple addition program using FLASK
+
+**Thoughts** : This is soo interesting, but the course lacks detail in topic. 
+
+**Link of work** : [Commit](https://github.com/p-s-vishnu/Documents/commits?author=p-s-vishnu&since=2018-09-24T18:30:00Z&until=2018-09-25T18:30:00Z)
+
+***
 ### Day  : 
 
 **Today's progress** : 
 
+**Thoughts** :
+
 **Resources** : 
 
-**Link of work** :
+**Link of work** : [Commit]()
