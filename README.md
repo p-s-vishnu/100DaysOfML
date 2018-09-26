@@ -645,6 +645,15 @@ I am taking up the challenge to to Learn  Machine Learning at least an hour ever
 **Link of work** : [Commit](https://github.com/p-s-vishnu/Documents/commits?author=p-s-vishnu&since=2018-09-24T18:30:00Z&until=2018-09-25T18:30:00Z)
 
 ***
+### Day 70 : 26 September
+
+**Today's progress** : Udemy - Section 4 Exposing Random forest model API
+
+**Thoughts** : Introduced about Swagger, Postman
+
+**Link of work** : [Commit](https://github.com/p-s-vishnu/Documents/commits?author=p-s-vishnu&since=2018-09-25T18:30:00Z&until=2018-09-26T18:30:00Z)
+
+***
 ### Day  : 
 
 **Today's progress** : 
