@@ -654,6 +654,22 @@ I am taking up the challenge to to Learn  Machine Learning at least an hour ever
 **Link of work** : [Commit](https://github.com/p-s-vishnu/Documents/commits?author=p-s-vishnu&since=2018-09-25T18:30:00Z&until=2018-09-26T18:30:00Z)
 
 ***
+### Day 71 : 27 September 
+
+**Today's progress** : Udemy - Section 5 : Writing and building docker file
+
+**Link of work** : [Commit](https://github.com/p-s-vishnu/Documents/commits?author=p-s-vishnu&since=2018-09-26T18:30:00Z&until=2018-09-27T18:30:00Z)
+
+***
+### Day 72 : 28 September
+
+**Today's progress** : Watched "How to read scientific paper and started reading "CNN for NLP"
+
+**Resources** : [Arxiv](https://arxiv.org/abs/1805.10796v1)
+
+**Link of work** : [Commit](https://github.com/p-s-vishnu/Documents/commits?author=p-s-vishnu&since=2018-09-27T18:30:00Z&until=2018-09-28T18:30:00Z)
+
+***
 ### Day  : 
 
 **Today's progress** : 
