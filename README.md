@@ -677,6 +677,12 @@ I am taking up the challenge to to Learn  Machine Learning at least an hour ever
 **Link of work** : [Commit](https://github.com/p-s-vishnu/Documents/commits?author=p-s-vishnu&since=2018-09-28T18:30:00Z&until=2018-09-29T18:30:00Z)
 
 ***
+### Day 80 : 30 September
+
+**Today's progress** : Externel libraries in python 
+
+**Link of work** : [Commit](https://github.com/p-s-vishnu/Kaggle/commits?author=p-s-vishnu&since=2018-09-29T18:30:00Z&until=2018-09-30T18:30:00Z)
+***
 ### Day  : 
 
 **Today's progress** : 
