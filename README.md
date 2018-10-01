@@ -683,6 +683,14 @@ I am taking up the challenge to to Learn  Machine Learning at least an hour ever
 
 **Link of work** : [Commit](https://github.com/p-s-vishnu/Kaggle/commits?author=p-s-vishnu&since=2018-09-29T18:30:00Z&until=2018-09-30T18:30:00Z)
 ***
+### Day  81 : 1 October
+
+**Today's progress** : Preparing Notes of CNN for NLP
+
+**Thoughts** : Iterative reading in progress
+
+**Link of work** : [Commit](https://github.com/p-s-vishnu/Documents/commits?author=p-s-vishnu&since=2018-09-30T18:30:00Z&until=2018-10-01T18:30:00Z)
+***
 ### Day  : 
 
 **Today's progress** : 
