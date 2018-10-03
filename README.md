@@ -691,12 +691,19 @@ I am taking up the challenge to to Learn  Machine Learning at least an hour ever
 
 **Link of work** : [Commit](https://github.com/p-s-vishnu/Documents/commits?author=p-s-vishnu&since=2018-09-30T18:30:00Z&until=2018-10-01T18:30:00Z)
 ***
-### Day  : 
+### Day  82 : 2 October 
 
-**Today's progress** : 
+**Today's progress** : Completed Python track on kaggle, Create notes for CNN-NLP paper
 
-**Thoughts** :
+**Thoughts** : I never expected reading scientific paper would help me this much, it was a fun and interested experience. 
 
-**Resources** : 
+**Link of work** : [Commit1](https://github.com/p-s-vishnu/Documents/commits?author=p-s-vishnu&since=2018-09-30T18:30:00Z&until=2018-10-03T18:30:00Z), [Commit2](https://github.com/p-s-vishnu/Kaggle/commits?author=p-s-vishnu&since=2018-10-01T18:30:00Z&until=2018-10-02T18:30:00Z)
+***
+### Day  83 : 3 October 
 
-**Link of work** : [Commit]()
+**Today's progress** : Udemy Deploying NLP based API
+
+***
+### Day   :  October 
+
+**Today's progress** :
