@@ -736,3 +736,10 @@ I am taking up the challenge to to Learn  Machine Learning at least an hour ever
 **Today's progress** : Udemy - API for image recognition
 
 ***
+
+### Day 89 : 9 October
+
+**Today's progress** : Completed Udemy course 
+
+**Link of work** : [Commit](https://github.com/p-s-vishnu/Documents/commits?author=p-s-vishnu&since=2018-10-08T18:30:00Z&until=2018-10-09T18:30:00Z)
+***
