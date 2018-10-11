@@ -749,7 +749,7 @@ I am taking up the challenge to to Learn  Machine Learning at least an hour ever
 **Today's progress** : Working on Linear algebra refreshers 
 ***
 
-### Day 91 : 10 October
+### Day 91 : 11 October
 
 **Today's progress** : Studying Intersections on Linear algebra refreshers
 ***
