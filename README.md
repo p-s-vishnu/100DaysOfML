@@ -760,3 +760,14 @@ I am taking up the challenge to to Learn  Machine Learning at least an hour ever
 **Link of work** : [Commit](https://github.com/p-s-vishnu/udacity/commits?author=p-s-vishnu&since=2018-10-11T18:30:00Z&until=2018-10-12T18:30:00Z)
 
 ***
+### Day 93 : 13 October
+
+**Today's progress** : Learned about backpropagation in-depth, neural networks loss function
+
+**Resource** : 
+* [Neural network](https://www.youtube.com/watch?v=aircAruvnKk&t=6s)
+* [Backpropagation working](https://www.youtube.com/watch?v=Ilg3gGewQ5U&t=14s)
+* [Backpropagation - Stanford](https://www.youtube.com/watch?v=i94OvYb6noo&t=814s)
+* [Loss function](https://www.youtube.com/watch?v=IVVVjBSk9N0)
+* [The evolution of Gradient descent](https://www.youtube.com/watch?v=nhqo0u1a6fw)
+* [The backpropagation explained](https://www.youtube.com/watch?v=FaHHWdsIYQg)
