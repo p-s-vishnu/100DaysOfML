@@ -771,3 +771,10 @@ I am taking up the challenge to to Learn  Machine Learning at least an hour ever
 * [Loss function](https://www.youtube.com/watch?v=IVVVjBSk9N0)
 * [The evolution of Gradient descent](https://www.youtube.com/watch?v=nhqo0u1a6fw)
 * [The backpropagation explained](https://www.youtube.com/watch?v=FaHHWdsIYQg)
+
+***
+### Day 94 : 14 October
+
+**Today's progress** : Linear algebra refresher, siraj's python for data science revisited
+
+**Link of work** : [Commit](https://github.com/p-s-vishnu/Documents/commits?author=p-s-vishnu&since=2018-10-13T18:30:00Z&until=2018-10-14T18:30:00Z)
