@@ -799,3 +799,9 @@ I am taking up the challenge to to Learn  Machine Learning at least an hour ever
 **Today's progress** : Coding Projection vectors
 
 **Link of work** : [Commit](https://github.com/p-s-vishnu/udacity/commits?author=p-s-vishnu&since=2018-10-17T07:00:00Z&until=2018-10-18T07:00:00Z)
+***
+### Day 98 : 18 October
+
+**Today's progress** : Coding Cross product and functions for lines
+
+**Link of work** : [Commit}(https://github.com/p-s-vishnu/udacity/commits?author=p-s-vishnu&since=2018-10-18T07:00:00Z&until=2018-10-19T07:00:00Z)
