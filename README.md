@@ -806,10 +806,12 @@ I am taking up the challenge to to Learn  Machine Learning at least an hour ever
 
 **Link of work** : [Commit](https://github.com/p-s-vishnu/udacity/commits?author=p-s-vishnu&since=2018-10-18T07:00:00Z&until=2018-10-19T07:00:00Z)
 
+***
 ### Day 99 : 19 October
 
 **Today's progress**: Learning about GAN, Code Planes in 3D
 
-**Resource** : [GANs}(https://www.youtube.com/watch?v=deyOX6Mt_As), [Code](https://github.com/llSourcell/Generative-Adversarial-Network-Demo)
+**Resources** : 
+- [GANs](https://www.youtube.com/watch?v=deyOX6Mt_As)
+- [Code](https://github.com/llSourcell/Generative-Adversarial-Network-Demo)
 
-**Link of work** : [Commit](https://github.com/p-s-vishnu/udacity/commits?author=p-s-vishnu&since=2018-10-19&until=2018-10-20)
